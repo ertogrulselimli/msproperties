@@ -28,10 +28,10 @@ build:
 
 
 accounts:
-  message: "Welcomte to EazyBank accounts related local APIS"
+  message: "Welcomte to accounts related local APIS"
   contactDetails:
     name: "John Doe-devleoper"
-    email: "john@eazybank.com"
+    email: "togrul@tg.com"
   onCallSupport:
     - (555) 532-1455
     - (555) 523-8779
